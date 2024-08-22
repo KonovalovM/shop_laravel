@@ -1,0 +1,33 @@
+<?php
+
+return [
+    'online_shop' => 'Інтернет Магазин',
+    'all_products' => 'Всі товари',
+    'product' => 'Товар',
+    'categories' => 'Категорії',
+    'all_categories' => 'Всі Категорії',
+    'category' => 'Категорія ',
+    'cart' => 'В кошик',
+    'reset_project' => 'Скинути проект в початковий стан',
+    'current_lang' => 'ua',
+    'set_lang' => 'en',
+    'properties' => [
+        'hit' => 'Хіт',
+        'recommend' => 'Рекомендуємо',
+        'new' => 'Новинка',
+    ],
+    'filter' => 'Фільтр',
+    'reset' => 'Скидання',
+    'price_from' => 'Ціна від',
+    'to' => 'до',
+    'login' => 'Увійти',
+    'logout' => 'Вийти',
+    'my_orders' => 'Мої замовлення',
+    'admin_panel' => 'Панель адміністратора',
+    'title' => 'Головна',
+    'uah' => 'грн',
+    'add_to_basket' => 'В кошик',
+    'more' => 'Детальніше',
+    'not_available' => 'Не доступий',
+    'project_reset' => 'Проект був скинутий в початковий стан',
+];
